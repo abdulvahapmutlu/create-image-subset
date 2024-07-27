@@ -16,11 +16,11 @@ This Python script allows you to create a subset of images from a given director
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/abdulvahapmutlu/create-image-subset.git
+   git clone https://github.com/abdulvahapmutlu/image-subset-creator.git
    
 2. **Navigate to the project directory**:
    ```
-   cd create-image-subset
+   cd image-subset-creator
 
 ## Usage
 
